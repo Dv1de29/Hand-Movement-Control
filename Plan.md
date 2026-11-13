@@ -4,6 +4,7 @@
 
 1. **2D hand model for sign creation**
    - Create signs either from the camera or by dragging the joints of the model
+     <img width="256" height="256" alt="peace_sign_landmarks" src="https://github.com/user-attachments/assets/bd87d7a4-d9d4-4e66-b319-5d9bd05876d9" />
    - Name each sign and later assign it to an action
    - Integrated difficulty indicator that rates how hard a sign is to make, based on how often its action is used
 
@@ -13,7 +14,7 @@
 
 3. **Adjustable parameters**
    - Settings for tremor, limited range of motion, and similar needs
-   - Option to tune these automatically from the user's own movement
+      - MAYBE: Option to tune these automatically from the user's own movement
 
 4. **Pause sign**
    - One sign that disables control entirely, so a relaxed or loose hand cannot keep controlling the computer
