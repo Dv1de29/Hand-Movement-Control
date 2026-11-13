@@ -1,5 +1,12 @@
 # Plan
 
+## What we have now: 
+A tauri executable that loads a single display screen with a camera that shows ur hand and moves the mouse. 
+<img width="1327" height="704" alt="Screenshot 2026-11-13 at 18 38 48" src="https://github.com/user-attachments/assets/f1278694-64c3-4178-a530-970858cbd702" />
+
+The sends the landmarks in the Rust side of the project where its processed and it acts based on the signs and ladmarks
+
+
 ## Features
 
 1. **2D hand model for sign creation**
@@ -24,7 +31,7 @@
    - Shows a 2D model of the last sign detected
    - Stays active while recording signs
 
-## Future additions
+## Possible additions
 
 - Tutorial that teaches one feature at a time
 - Accounts that store configurations
